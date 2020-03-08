@@ -1,0 +1,5 @@
+{
+    "sketch": "arduino_mega_stepper_motor.ino",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560"
+}
