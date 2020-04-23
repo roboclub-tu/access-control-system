@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-access-control-system\credetentials.h
+access-control-system\Src\credetentials.h
 
 # User-specific files
 *.rsuser
