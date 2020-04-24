@@ -5,6 +5,8 @@
 
 // ZDR
 
+// ZDR 2
+
 int Index;
 int card = CARD_ID;     
 int tags[10] = {0};    // static database
