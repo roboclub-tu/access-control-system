@@ -2,6 +2,9 @@
 #include "Wiegand.h"
 #include "credetentials.h"
 
+
+// ZDR
+
 int Index;
 int card = CARD_ID;     
 int tags[10] = {0};    // static database
